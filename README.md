@@ -1,10 +1,10 @@
 # M9 Feeder
 
-**Latest version: v1.0.2** (2026-09-20)
+**Latest version: v1.1.0** (2026-09-21)
 
 ## Download
 
-**[Download M9 Feeder v1.0.2](https://github.com/AniC12/handheld-printer-releases/releases/latest/download/M9Feeder-win-Setup.exe)**
+**[Download M9 Feeder v1.1.0](https://github.com/AniC12/handheld-printer-releases/releases/latest/download/M9Feeder-win-Setup.exe)**
 
 Run the installer and launch **M9 Feeder** from the Start Menu. No administrator
 rights are required, and the application updates itself from then on.
